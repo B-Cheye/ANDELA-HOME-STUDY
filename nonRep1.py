@@ -2,7 +2,7 @@
 """
 Created on Tue Dec 11 07:46:50 2018
 
-@author: User
+@author: Cheye
 """
 
 myList=[34,34,67,67,54,43,32,32,32,45]

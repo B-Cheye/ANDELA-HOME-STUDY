@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 10 17:59:51 2018
 
-@author: User
+@author: Brian
 """
 
 def Range(list1): 

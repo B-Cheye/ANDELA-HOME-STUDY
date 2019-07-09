@@ -2,7 +2,7 @@
 """
 Created on Tue Dec 11 07:36:24 2018
 
-@author: User
+@author: Brian
 """
 def firstNonRep(list1):
     count = {}
