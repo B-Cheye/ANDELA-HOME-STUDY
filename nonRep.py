@@ -3,6 +3,7 @@
 Created on Tue Dec 11 07:36:24 2018
 
 @author: Brian
+Signing a commit message.
 """
 def firstNonRep(list1):
     count = {}
